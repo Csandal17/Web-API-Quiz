@@ -25,6 +25,7 @@ Web APIs: Code Quiz
 <p><a href="https://www.buymeacoffee.com/chantalsandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height=“40” width="150” alt="chantalsandal" /></a></p><br><br>
 
 ## Screenshots
+<img width="1155" alt="Web-API-Quiz" src="https://user-images.githubusercontent.com/120218844/227306641-4824230d-64bb-4133-81fe-422dbef54708.png">
 
 ##Setup/Installation Requirements
 * Clone this repository to your desktop.
